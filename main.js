@@ -1125,3 +1125,10 @@ greeting(); // Output: Hello, stranger!
 // When the code calls greeting('Nick') the value of the argument is passed in and, 'Nick', will override the default parameter of 'stranger' to log 'Hello, Nick!' to the console.
 
 // When there isn’t an argument passed into greeting(), the default value of 'stranger' is used, and 'Hello, stranger!' is logged to the console.
+
+
+// Write your fasterShip object literal below
+let fasterShip = {
+'Fuel Type' : 'Turbo Fuel',
+color : 'silver'
+}
