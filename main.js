@@ -1219,6 +1219,8 @@ const spaceship = {
     }
 }; 
 
+spaceship.nanoelectronics['back-up'].battery; // Returns 'Lithium'
+
 
 let spaceship = {
   passengers: [
