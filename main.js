@@ -1257,3 +1257,21 @@ let spaceship = {
 
 let capFave = spaceship.crew.captain['favorite foods'][0]
 let firstPassenger = spaceship.passengers[0]
+
+
+
+
+
+const spaceship = {
+  homePlanet : 'Earth',
+  color : 'silver'
+};
+ 
+let paintIt = obj => {
+  obj.color = 'glorious gold'
+};
+ 
+paintIt(spaceship);
+ 
+spaceship.color // Returns 'glorious gold'
+ 
