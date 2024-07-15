@@ -1296,4 +1296,8 @@ spaceship = {
   'transport type': 'flying'
 }; // Regular reassignment still works.
 
+let spaceship = {
+  'Fuel Type' : 'Turbo Fuel',
+  homePlanet : 'Earth'
+};
  
