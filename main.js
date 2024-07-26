@@ -1310,6 +1310,11 @@ let remotelyDisable = obj  => {
   obj.disabled = true;
 }
 
+greenEnergy(spaceship)
+remotelyDisable(spaceship) 
+
+console.log(spaceship)
+
 
 greenEnergy(spaceship)
 remotelyDisable(spaceship) 
