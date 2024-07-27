@@ -1319,3 +1319,49 @@ console.log(spaceship)
 greenEnergy(spaceship)
 remotelyDisable(spaceship) 
  console.log(spaceship)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let spaceship = {
+    crew: {
+    captain: { 
+        name: 'Lily', 
+        degree: 'Computer Engineering', 
+        cheerTeam() { console.log('You got this!') } 
+        },
+  
+   
+    }
+}; 
+
+// Write your code below
+
+
+
