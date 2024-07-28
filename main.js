@@ -1357,7 +1357,11 @@ let spaceship = {
         cheerTeam() { console.log('You got this!') } 
         },
   
-   
+   'chief officer': { 
+        name: 'Dan', 
+        degree: 'Aerospace Engineering', 
+        agree() { console.log('I agree, captain!') } 
+        },
     }
 }; 
 
