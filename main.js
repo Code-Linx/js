@@ -1362,7 +1362,13 @@ let spaceship = {
         degree: 'Aerospace Engineering', 
         agree() { console.log('I agree, captain!') } 
         },
-    }
+     medic: {
+      name: "Clementine",
+      degree: "Physics",
+      announce() {
+        console.log(`Jets on!`);
+      },
+    },
 }; 
 
 // Write your code below
