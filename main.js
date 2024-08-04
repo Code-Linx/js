@@ -1373,6 +1373,10 @@ let spaceship = {
     }
 }; 
 
+for (let crewMember in spaceship.crew) {
+  console.log(`${crewMember}: ${spaceship.crew[crewMember].name}`)
+}
+
 // Write your code below
 
 
