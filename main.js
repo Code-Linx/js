@@ -1403,3 +1403,6 @@ let halley = {
 
 
 
+class Dog {
+  
+}
