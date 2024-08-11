@@ -1401,7 +1401,10 @@ let halley = {
 }
 
 class Dog {
-  
+  constructor(name) {
+    this._name = name;
+    this._behavior = 0;
+  }
 }
 
 
