@@ -1405,10 +1405,12 @@ class Dog {
     this._name = name;
     this._behavior = 0;
   }
+
+    get name() {
+    return this._name;
+  }
 }
 
 
 
-class Dog {
-  
-}
+
