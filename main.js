@@ -1409,6 +1409,11 @@ class Dog {
     get name() {
     return this._name;
   }
+
+   get behavior() {
+    return this._behavior;
+  }   
+
 }
 
 
