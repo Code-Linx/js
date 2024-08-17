@@ -1414,6 +1414,10 @@ class Dog {
     return this._behavior;
   }   
 
+   incrementBehavior() {
+    this._behavior ++;
+  }
+
 }
 
 
