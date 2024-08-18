@@ -1420,6 +1420,6 @@ class Dog {
 
 }
 
-
+const halley = new Dog('Halley');
 
 
