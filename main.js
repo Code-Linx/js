@@ -1440,6 +1440,6 @@ class Dog {
   constructor(name) {
     this.name = name;
     this.behavior = 0;
-  }
+  } 
 }
 
