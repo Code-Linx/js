@@ -1435,3 +1435,5 @@ class Surgeon {
     this.department = department;
   }
 }
+
+const surgeonRomero = new Surgeon("Francisco Romero", "Cardiovascular");
